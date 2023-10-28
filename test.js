@@ -1,1 +1,2 @@
-console.log("hello, world")
+console.log (greeter);
+var greeter = "say hello"
